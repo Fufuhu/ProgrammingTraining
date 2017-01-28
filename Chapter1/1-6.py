@@ -3,7 +3,7 @@ import math
 def rotate(matrix):
     rotater = [[0, 1], [-1, 0]]
 
-    print("**Rotater**")
+    print("**Rotater**")x
     print(str(rotater[0][0]))
     print(str(rotater[0][1]))
     print(str(rotater[1][0]))
